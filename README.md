@@ -14,7 +14,6 @@ TaskMaster is a simple yet effective to-do list management application designed 
 
 - **Framework**: Ruby on Rails
 - **Database**: SQLite (for development)
-- **Frontend**: Vue
 
 ## How to Run
 
